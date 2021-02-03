@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 76B1-1F43
+
+ Directory of C:\Users\keshav\OneDrive\Desktop\java
+
+03-02-2021  17:09    <DIR>          .
+03-02-2021  17:09    <DIR>          ..
+03-02-2021  16:59               116 Hello.java
+03-02-2021  16:57                 0 Hello.txt
+03-02-2021  17:09                 0 r.txt
+               3 File(s)            116 bytes
+               2 Dir(s)  185,488,953,344 bytes free
